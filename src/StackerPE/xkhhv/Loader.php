@@ -1,6 +1,6 @@
 <?php
 
-namespace StackerPE\xkhhv;
+namespace StackerPE\xkhhv;..
 
 use pocketmine\entity\Entity;
 use pocketmine\item\Item;
